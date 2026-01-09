@@ -511,25 +511,11 @@ ninja.data = [{
           window.open("mailto:%6A%65%72%65%6D%79%74%69@%63%73.%63%6D%75.%65%64%75", "_blank");
         },
       },{
-        id: 'social-linkedin',
-        title: 'LinkedIn',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.linkedin.com/in/jeremy-tien", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=FlBAckQAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-x',
-        title: 'X',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://twitter.com/jeremy__tien", "_blank");
         },
       },{
         id: 'social-custom_social',
