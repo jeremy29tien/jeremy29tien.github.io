@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: "PhD Student, Machine Learning, Carnegie Mellon University. \nContact: jeremyti (at) cs (dot) cmu (dot) edu"
+subtitle: > 
+  <p>"PhD Student, Machine Learning, Carnegie Mellon University."</p>
+  <p>"Contact: jeremyti (at) cs (dot) cmu (dot) edu"</p>
 
 profile:
   align: right
