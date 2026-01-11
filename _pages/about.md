@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student, Machine Learning, Carnegie Mellon University. Contact: jeremyti (at) cs (dot) cmu (dot) edu
+subtitle: "PhD Student, Machine Learning, Carnegie Mellon University. Contact: jeremyti (at) cs (dot) cmu (dot) edu"
 
 profile:
   align: right
