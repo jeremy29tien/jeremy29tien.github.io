@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "PhD Student, Machine Learning, Carnegie Mellon University. Contact: jeremyti (at) cs (dot) cmu (dot) edu"
+subtitle: "PhD Student, Machine Learning, Carnegie Mellon University. \nContact: jeremyti (at) cs (dot) cmu (dot) edu"
 
 profile:
   align: right
@@ -31,8 +31,4 @@ Hi! I'm a Machine Learning PhD student at Carnegie Mellon University, where I am
 
 Formerly, I graduated from the University of California, Berkeley with a Bachelor of Science degree in Electrical Engineering and Computer Science, where I did research in the area of human-AI interaction while advised by [Prof. Anca Dragan](https://people.eecs.berkeley.edu/~anca/).
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+REMOVE: Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
