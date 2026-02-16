@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-02-06'
+  last_updated: '2026-02-16'
 papers:
   FlBAckQAAAAJ:2osOgNQ5qMEC:
     citations: 0
     title: Active reward learning and iterative trajectory improvement from comparative language feedback
     year: '2025'
   FlBAckQAAAAJ:9yKSN-GCB0IC:
-    citations: 20
+    citations: 21
     title: Trajectory Improvement and Reward Learning from Comparative Language Feedback
     year: '2024'
   FlBAckQAAAAJ:d1gkVwhDpl0C:
@@ -14,6 +14,6 @@ papers:
     title: Optimizing robot behavior via comparative language feedback
     year: '2024'
   FlBAckQAAAAJ:u-x6o8ySG0sC:
-    citations: 88
+    citations: 87
     title: Causal Confusion and Reward Misidentification in Preference-Based Reward Learning
     year: '2023'
