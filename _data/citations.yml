@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-03'
+  last_updated: '2026-04-22'
 papers:
   FlBAckQAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -14,6 +14,6 @@ papers:
     title: Optimizing robot behavior via comparative language feedback
     year: '2024'
   FlBAckQAAAAJ:u-x6o8ySG0sC:
-    citations: 90
+    citations: 93
     title: Causal Confusion and Reward Misidentification in Preference-Based Reward Learning
     year: '2023'
