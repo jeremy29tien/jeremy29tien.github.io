@@ -391,18 +391,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-i-m-honored-to-receive-a-national-science-foundation-graduate-research-fellowship-nsf-grfp-for-my-proposal-on-provably-safe-and-beneficial-artificial-intelligence-agents",
+            },},{id: "news-i-m-honored-to-receive-a-national-science-foundation-graduate-research-fellowship-nsf-grfp-for-my-proposal-on-provably-safe-and-beneficial-artificial-intelligence-agents",
           title: 'I’m honored to receive a National Science Foundation Graduate Research Fellowship (NSF GRFP)...',
           description: "",
           section: "News",},{id: "news-i-was-interviewed-by-robert-lemos-from-dark-reading-about-the-openai-hugging-face-incident-and-what-it-reveals-about-agent-safety-including-connections-to-our-new-rogue-benchmark-read-the-article",
